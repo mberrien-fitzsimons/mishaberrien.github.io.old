@@ -1,12 +1,24 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact Me"
+meta_title: "Contact Me"
+subheadline: ""
+teaser: "These are the best way to contact me. Thanks for stopping by!"
 permalink: "/contact/"
+
+- name: Linkedin
+  url: https://linkedin.com/in/misha-berrien
+  class: icon-linkedin
+  title: "Check me out on Linkedin"
+
+- name: GitHub
+  url: https://github.com/mishaberrien
+  class: icon-github
+  title: "Code and projects"
+
+- name: Twitter
+  url: http://twitter.com/MishaBerrien
+  class: icon-twitter
+  title: "Follow me on Twitter"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+Misha.Berrien@gmail.commodo
