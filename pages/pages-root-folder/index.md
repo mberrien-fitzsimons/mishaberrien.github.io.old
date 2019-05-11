@@ -13,7 +13,8 @@ header:
 widget1:
   title: "Chicago Bikeshare Analysis"
   url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
-  image: widget-1-302x182.jpg
+  image: widget1-kuan-693106-unsplash.jpg
+#  image: widget-1-302x182.jpg
   text: 'The Chicago Transportation Authority (CTA) opened the first 75 Divvy Stations in June 2013. The first stations were clustered around the Loop area in Central Chicago. By the end of 2013, more than 300 stations were up and running around Chicago’s North, West and Southern sides.'
 widget2:
   title: "Why use this theme?"
