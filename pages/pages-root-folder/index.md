@@ -6,9 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-770110-unsplash.png
+  image_fullwidth: header-770110-unsplash.jpg
 
-# These are the articles that are displayed on the front page 
+# These are the articles that are displayed on the front page
 
 #widget1:
 #  title: "Blog & Portfolio"
