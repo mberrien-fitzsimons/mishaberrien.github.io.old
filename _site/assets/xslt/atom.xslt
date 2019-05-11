@@ -145,7 +145,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/mishaberrien.github.io/">About</a></li>
+              <li><a  href="http://localhost:4000/mishaberrien.github.io/about/">About</a></li>
               <li class="divider"></li>
 
             
@@ -162,7 +162,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/mishaberrien.github.io/design/">Projects</a>
+                <a  href="http://localhost:4000/mishaberrien.github.io/projects/">Projects</a>
 
                   <ul class="dropdown">
                     

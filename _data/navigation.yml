@@ -1,5 +1,5 @@
 - title: About
-  url: "/"
+  url: "/about/"
   side: left
 
 # - title: Getting Started
@@ -7,7 +7,7 @@
 #   side: left
 
 - title: "Projects"
-  url: "/design/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Grid & Colors"
