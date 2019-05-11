@@ -30,6 +30,7 @@ widget3:
 #
 # To make internal links, just use a permalink like this
 # url: /getting-started/
+url: /index/
 #
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
