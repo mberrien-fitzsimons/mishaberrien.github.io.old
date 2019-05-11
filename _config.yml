@@ -11,7 +11,7 @@
 title: "Misha Berrien"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Data Scientist, Policy Analyst, Civic Technologist"
+slogan: "Data Science Fellow & Policy Analyst"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -41,8 +41,8 @@ baseurl: '/mishaberrien.github.io'
 urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
-# Logo size is 600x80 pixels
-logo: "logo.png"
+# Logo size is 600x80 pixels - set's the title for each page.
+logo: "logo.svg"
 
 # Plugins
 plugins:
