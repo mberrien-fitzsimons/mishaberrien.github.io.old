@@ -132,6 +132,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -145,7 +151,22 @@
 
             
             
-              <li><a  href="http://localhost:4000/mishaberrien.github.io/about/">About</a></li>
+              <li><a  href="http://localhost:4000/mishaberrien.github.io/index/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/mishaberrien.github.io/about/">About Me</a></li>
               <li class="divider"></li>
 
             

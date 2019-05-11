@@ -1,10 +1,10 @@
-- title: About
-  url: "/about/"
+- title: Home
+  url: "/index/"
   side: left
 
-# - title: Getting Started
-#   url: "/getting-started/"
-#   side: left
+- title: "About Me"
+  url: "/about/"
+  side: left
 
 - title: "Projects"
   url: "/projects/"
