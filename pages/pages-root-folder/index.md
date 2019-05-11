@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-chair-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
 
