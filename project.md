@@ -5,7 +5,7 @@ title: "Data Science & Analytics Projects"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header-projects-franki-chamaki-682112-unsplash.jpg"
+   image_fullwidth: "header-project2-christian-wiediger-1293562-unsplash.jpg"
 permalink: "/project/"
 ---
 1. <a href="https://mishaberrien.com/chicago-bikeshare-analysis/" target="_blank">Divvy bike usage in Chicago's transit deserts</a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
