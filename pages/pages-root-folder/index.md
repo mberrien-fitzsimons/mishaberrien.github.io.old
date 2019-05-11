@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-comp-blake-connally-373084-unsplash.jpg
+  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
 
