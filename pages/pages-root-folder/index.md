@@ -9,6 +9,7 @@ header:
   image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
+title: Projects
 
 widget1:
   title: "Chicago Bikeshare Analysis"
@@ -25,6 +26,7 @@ widget3:
   url: 'https://mishaberrien.com/divvy-bike-interactive-map/'
   image: widget3-sawyer-bengtson-256255-unsplash.jpg
   text: 'Interactive map of Chicago showing bikeshare usage.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
