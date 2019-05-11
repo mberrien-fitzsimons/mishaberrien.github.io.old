@@ -14,7 +14,7 @@ widget1:
   title: "Chicago Bikeshare Analysis"
   url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'The Chicago Transportation Authority (CTA) opened the first 75 Divvy Stations in June 2013. The first stations were clustered around the Loop area in Central Chicago. By the end of 2013, more than 300 stations were up and running around Chicago’s North, West and Southern sides. Over the years, Divvy stations have spread to Chicago’s Northern and Southern sides.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
