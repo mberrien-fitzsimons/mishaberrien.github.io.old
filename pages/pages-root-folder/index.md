@@ -14,13 +14,12 @@ widget1:
   title: "Chicago Bikeshare Analysis"
   url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
   image: widget1-kuan-693106-unsplash.jpg
-#  image: widget-1-302x182.jpg
   text: 'The Chicago Transportation Authority (CTA) opened the first 75 Divvy Stations in June 2013. The first stations were clustered around the Loop area in Central Chicago. By the end of 2013, more than 300 stations were up and running around Chicago’s North, West and Southern sides.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Map of Tulsa, Ok Traffic Accidents in 2014"
+  url: 'https://mishaberrien.com/tulsa-traffic-safety/'
+  image: widget2-riku-lu-3512-unsplash.jpg
+  text: 'An interactive visualization of all reported traffic accidents in 2014 in the city of Tulsa.'
 widget3:
   title: "Bikeshare Interactive Map"
   url: 'https://mishaberrien.com/divvy-bike-interactive-map/'
