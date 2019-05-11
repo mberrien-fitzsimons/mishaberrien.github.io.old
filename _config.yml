@@ -38,7 +38,7 @@ baseurl: '/mishaberrien.github.io'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-#urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://mishaberrien.github.io/mishaberrien.github.io/images/'
 
 
 # Logo size is 600x80 pixels - set's the title for each page.
