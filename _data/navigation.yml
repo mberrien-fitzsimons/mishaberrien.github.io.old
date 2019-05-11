@@ -60,11 +60,16 @@
 #     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "/blog-2/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
+# this connects to a blog with a dropdown menue. It's automatically set to populate when you write posts in design.
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: "Contact Me"
   url: "/contact/"
