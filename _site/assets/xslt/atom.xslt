@@ -183,7 +183,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/mishaberrien.github.io/design">Projects</a>
+                <a  href="http://localhost:4000/mishaberrien.github.io/project/">Projects</a>
 
                   <ul class="dropdown">
                     

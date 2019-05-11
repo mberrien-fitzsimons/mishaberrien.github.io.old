@@ -7,7 +7,7 @@
   side: left
 
 - title: "Projects"
-  url: "/design"
+  url: "/project/"
   side: left
   dropdown:
   - title: "Grid & Colors"
