@@ -5,11 +5,14 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+
+title: "Spotlight Projects"
+teaser: "For all data science & analytics projects click the Projects tab above."
+
 #header:
 #  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
-title: Projects
 
 widget1:
   title: "Project: Chicago Bikeshare Analysis"

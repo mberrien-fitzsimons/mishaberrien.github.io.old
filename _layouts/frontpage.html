@@ -2,6 +2,12 @@
 layout: default
 format: frontpage
 ---
+<head>
+  <style>
+    #about-me {padding-left: 17px;}
+    .teaser {padding-left: 17px;}
+  </style>
+</head>
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
@@ -9,6 +15,21 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<!-- beginning of inserted code for project header -->
+<div class="row t30">
+	<!-- <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}"> -->
+			<header>
+				<div itemprop="name">
+					<h2 id = "about-me">{{ page.title }}</h2>
+				<!-- </div> -->
+        {% if page.teaser %}
+        <p class="teaser" itemprop="description">
+          {{ page.teaser }}
+        </p>
+        {% endif %}
+			</header>
+	</div>
+<!-- end of inserted code for project header -->
 
 {% comment %}
 *
