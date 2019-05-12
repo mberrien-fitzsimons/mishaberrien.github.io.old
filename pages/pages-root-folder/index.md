@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
+#header:
+#  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
 title: Projects

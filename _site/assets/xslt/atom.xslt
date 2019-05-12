@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.">
 	<meta property="og:url" content="http://localhost:4000/mishaberrien.github.io/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="MishaBerrien">
 	<meta name="twitter:creator" content="MishaBerrien">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.">
 	
 	
 
@@ -313,7 +313,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               <a href="http://localhost:4000/mishaberrien.github.io/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -323,12 +323,6 @@
             
               
                 <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
-              
-            
               
             
               
@@ -346,21 +340,6 @@
                     <a href="http://localhost:4000/mishaberrien.github.io/contact/"  title="Contact">Contact</a>
                   </li>
               
-                
-                  <li >
-                    <a href="http://localhost:4000/mishaberrien.github.io/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/mishaberrien.github.io/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/mishaberrien.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
-                  </li>
-              
               </ul>
           </div><!-- /.large-4.columns -->
 
@@ -368,7 +347,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
+                <h5 class="shadow-black">Thanks to</h5>
               
             
               
@@ -417,7 +396,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created and maintained by <a href="http://linkedin.com/in/misha-berrien/">Misha Berrien</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Maintained by <a href="http://linkedin.com/in/misha-berrien/">Misha Berrien</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
