@@ -12,17 +12,17 @@ header:
 title: Projects
 
 widget1:
-  title: "Chicago Bikeshare Analysis"
+  title: "Project: Chicago Bikeshare Analysis"
   url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
   image: widget1-kuan-693106-unsplash.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
 widget2:
-  title: "Map of Tulsa, Ok Traffic Accidents in 2014"
+  title: "Project: Map of Tulsa, Ok Traffic Accidents in 2014"
   url: 'https://mishaberrien.com/tulsa-traffic-safety/'
   image: widget2-riku-lu-3512-unsplash.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
 widget3:
-  title: "Bikeshare Interactive Map"
+  title: "Project: Bikeshare Interactive Map"
   url: 'https://mishaberrien.com/divvy-bike-interactive-map/'
   image: widget3-sawyer-bengtson-256255-unsplash.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
