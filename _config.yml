@@ -194,8 +194,12 @@ og_type:                            'website'
 
 socialmedia:
     twitter: MishaBerrien
-    facebook: phlow.media
+    facebook:
 
+# trying to add social media on my own
+twitter_username:     mishaberrien
+github_username:      mishaberrien
+#linkedin_username:    aleksandartodorovic
 
 #        ____  _
 #       / __ \(_)________ ___  _______
