@@ -49,7 +49,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Misha Berrien">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
 	
