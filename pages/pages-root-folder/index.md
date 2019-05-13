@@ -6,8 +6,8 @@
 #
 layout: frontpage
 
-title: "Spotlight Projects"
-teaser: "For all data science & analytics projects click the Projects tab above."
+title: ""
+teaser: ""
 
 #header:
 #  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
