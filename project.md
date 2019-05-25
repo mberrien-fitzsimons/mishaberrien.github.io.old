@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-project
 show_meta: false
 title: "Projects"
 subheadline: ""
