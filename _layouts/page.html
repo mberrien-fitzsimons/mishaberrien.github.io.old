@@ -2,6 +2,13 @@
 layout: default
 format: post
 ---
+<head>
+  <style>
+    .title-top {padding-left: 0px;
+               padding-top: 100px;}
+
+  </style>
+</head>
 <div class="row t30">
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
@@ -24,7 +31,7 @@ format: post
 
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<h1>{{ page.title }}</h1>
+					<h1 class=title-top>{{ page.title }}</h1>
 				</div>
 			</header>
 

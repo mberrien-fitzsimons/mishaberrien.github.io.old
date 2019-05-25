@@ -68,7 +68,7 @@
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/mishaberrien.github.io/assets/img/favicon-32x32.svg">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/mishaberrien.github.io/assets/img/favicon-32x32.png">
 
 	<link rel="icon" sizes="192x192" href="http://localhost:4000/mishaberrien.github.io/assets/img/touch-icon-192x192.png">
 
@@ -308,93 +308,7 @@
     </div><!-- /.row -->
 
 
-    <footer id="footer-content" class="bg-grau">
-      <div id="footer">
-        <div class="row">
-          <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
-
-            <p class="shadow-black">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              <a href="http://localhost:4000/mishaberrien.github.io/info/">More ›</a>
-            </p>
-          </div><!-- /.large-6.columns -->
-
-
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            
-              
-                <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
-
-              <ul class="no-bullet shadow-black">
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/mishaberrien.github.io"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/mishaberrien.github.io/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-              </ul>
-          </div><!-- /.large-4.columns -->
-
-
-          <div class="small-6 medium-3 large-3 columns">
-            
-              
-                <h5 class="shadow-black">Thanks to</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-
-            <ul class="no-bullet shadow-black">
-            
-              
-                <li >
-                  <a href="http://localhost:4000/mishaberrien.github.io"  title=""></a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
-                </li>
-            
-            </ul>
-          </div><!-- /.large-3.columns -->
-        </div><!-- /.row -->
-
-      </div><!-- /#footer -->
-
-
+    <footer>
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">

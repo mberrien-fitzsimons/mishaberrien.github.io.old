@@ -6,29 +6,31 @@
 #
 layout: frontpage
 
-title: ""
-teaser: ""
+title: "Misha Berrien"
+subheadline: "Data Science Fellow & Policy Analyst"
+teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+
 
 #header:
 #  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
 
 # These are the articles that are displayed on the front page
 
-widget1:
-  title: "Project: Chicago Bikeshare Analysis"
-  url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
-  image: widget1-kuan-693106-unsplash.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-widget2:
-  title: "Project: Map of Tulsa, Ok Traffic Accidents in 2014"
-  url: 'https://mishaberrien.com/tulsa-traffic-safety/'
-  image: widget2-riku-lu-3512-unsplash.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-widget3:
-  title: "Project: Bikeshare Interactive Map"
-  url: 'https://mishaberrien.com/divvy-bike-interactive-map/'
-  image: widget3-sawyer-bengtson-256255-unsplash.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+#widget1:
+#  title: "Project: Chicago Bikeshare Analysis"
+#  url: 'https://mishaberrien.com/chicago-bikeshare-analysis/'
+#  image: widget1-kuan-693106-unsplash.jpg
+#  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+#widget2:
+#  title: "Project: Map of Tulsa, Ok Traffic Accidents in 2014"
+#  url: 'https://mishaberrien.com/tulsa-traffic-safety/'
+#  image: widget2-riku-lu-3512-unsplash.jpg
+#  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+#widget3:
+#  title: "Project: Bikeshare Interactive Map"
+#  url: 'https://mishaberrien.com/divvy-bike-interactive-map/'
+#  image: widget3-sawyer-bengtson-256255-unsplash.jpg
+#  text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
 
 #
 # Use the call for action to show a button on the frontpage

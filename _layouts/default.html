@@ -11,11 +11,9 @@ layout: compress
 	{% include _navigation.html %}
 	{% endunless %}
 
-	{% include _masthead.html %}
 	{{ content }}
 
 	{% unless page.skip_boilerplate %}
-	{% include _footer.html %}
 	{% endunless %}
 
 	{% include _footer_scripts.html %}

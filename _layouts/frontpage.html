@@ -4,8 +4,26 @@ format: frontpage
 ---
 <head>
   <style>
-    #about-me {padding-left: 17px;}
-    .teaser {padding-left: 17px;}
+    #about-me {padding-left: 17px;
+               padding-top: 150px;
+               text-align: center;}
+    /* #about-me {text-align: center;} */
+    .teaser {padding-left: 17px;
+             text-align: center;}
+    /* .teaser {text-align: center;} */
+    .subheadline {text-align: center;
+                  font-size: 20px;
+                  padding-bottom:35px;
+                  padding-top:0px;
+                  font-style: italic;}
+
+    .social-media-bar {
+              /* padding-left: 500px; */
+              height: 5em;
+              display: flex;
+              align-items: center;
+              justify-content: center;}
+
   </style>
 </head>
 <div id="header-home">
@@ -20,7 +38,14 @@ format: frontpage
 	<!-- <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}"> -->
 			<header>
 				<div itemprop="name">
-					<h2 id = "about-me">{{ page.title }}</h2>
+					<h1 id = "about-me">{{ page.title }}</h1>
+
+          {% if page.subheadline %}
+          <p class="subheadline">
+            {{ page.subheadline }}
+          </p>
+          {% endif %}
+
 				<!-- </div> -->
         {% if page.teaser %}
         <p class="teaser" itemprop="description">
@@ -29,6 +54,17 @@ format: frontpage
         {% endif %}
 			</header>
 	</div>
+
+<!-- social media buttons -->
+  <div class=social-media-bar>
+  <!-- <section id="contact-bar-middle" class="small-12 medium-6 columns"> -->
+    <ul class="inline-list social-icons">
+    {% for social_item in site.data.socialmedia %}
+      <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+    {% endfor %}
+    </ul>
+  <!-- </section> -->
+  </div>
 <!-- end of inserted code for project header -->
 
 {% comment %}
@@ -37,7 +73,7 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+	<!-- {% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
 
@@ -47,7 +83,7 @@ format: frontpage
 
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+	{% endif %} -->
 </div><!-- /.row -->
 
 
