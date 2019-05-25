@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Data Science & Analytics Projects"
+title: "Projects"
 subheadline: ""
 teaser: ""
 #header:
