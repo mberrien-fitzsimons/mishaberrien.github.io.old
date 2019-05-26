@@ -1,7 +1,7 @@
 ---
 layout: page-project
 show_meta: false
-title: "Projects"
+title: ""
 subheadline: ""
 teaser: ""
 #header:
