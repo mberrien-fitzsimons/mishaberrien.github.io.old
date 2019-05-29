@@ -14,7 +14,7 @@ $include-html-icon-bar-classes: $include-html-classes !default;
 
 // We use these to style the icon-bar and items
 //$icon-bar-bg: $oil !default;
-$icon-bar-bg: 	#000000 !default;
+$icon-bar-bg: $primary-color !default;
 $icon-bar-font-color: $white !default;
 $icon-bar-font-color-hover: $icon-bar-font-color !default;
 $icon-bar-font-size: 1rem !default;
