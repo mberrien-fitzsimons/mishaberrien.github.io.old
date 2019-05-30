@@ -1,7 +1,7 @@
 ---
 layout: page-project
 show_meta: false
-title: "Projects"
+title: "Coding Projects"
 subheadline: ""
 teaser: ""
 #header:

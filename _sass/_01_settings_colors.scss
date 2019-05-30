@@ -84,13 +84,13 @@ $topbar-dropdown-toggle-color: $ci-1;
 $topbar-link-color: #000;
 //$topbar-link-color-hover: #000;
 $topbar-link-color-hover: #ffffff;
-$topbar-link-color-active: #000;
+$topbar-link-color-active: #ffffff;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-2;
+$topbar-dropdown-label-color: $ci-6;
+$topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-2;
+$topbar-link-bg-active: $ci-6; // color that selected element background is
 //$ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-6;
