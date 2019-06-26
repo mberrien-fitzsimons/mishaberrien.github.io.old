@@ -5,9 +5,7 @@ layout: page-about
 #
 subheadline: ""
 title: "About Me"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-
+teaser: "I am a policy analyst and Data Science Fellow at the Flatiron School living in Chicago, IL. I graduated from the University of Chicago Harris School of Public Policy with a master of public policy and concentration in data analytics. \n Before moving to Chicago, I studied and worked in Beijing, China for over 5 years. I studied advanced Mandarin at Beijing Normal University and worked in public relations, journalism and, most recently as a program manager for the University of Chicago Center in Beijing. \n "
 
 categories:
   -
