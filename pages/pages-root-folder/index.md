@@ -8,7 +8,11 @@ layout: frontpage
 
 title: "Misha Berrien"
 subheadline: "Data Science Fellow & Policy Analyst"
-teaser: "My interests lie at the intersection of data science and public policy. My goal is to ensure that public sector organizations are able to take advantage of the data science techniques that are now so common in private sector companies. I am currently completing a fully-funded Data Science Fellowship at the Flatiron School in Washington D.C. My blog focuses on personal projects and data visualization."
+teaser: "My interests lie at the intersection of data science and public policy. My goal is to ensure that public sector
+
+organizations are able to take advantage of the data science techniques that are now so common in private sector
+
+companies. I am currently completing a fully-funded Data Science Fellowship at the Flatiron School in Washington D.C. My blog focuses on personal projects and data visualization."
 
 #header:
 #  image_fullwidth: header-chair2-bravo-207676-unsplash.jpg
