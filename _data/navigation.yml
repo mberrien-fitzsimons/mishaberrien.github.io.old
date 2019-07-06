@@ -60,7 +60,7 @@
 #     url: "/roadmap/"
 
 - title: Blog
-  url: "https://medium.com/@mishaberrien/"
+  url: "/blog-2/"
   side: left
 
 # this connects to a blog with a dropdown menue. It's automatically set to populate when you write posts in design.
