@@ -12,6 +12,11 @@
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+      <!-- added text -->
+      {% for link in site.links %}
+       <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+           {% endfor %}
+       <!-- end of added text -->
     </ul>
     <section class="top-bar-section">
 {% comment %}
